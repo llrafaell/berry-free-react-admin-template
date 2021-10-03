@@ -2,15 +2,27 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/berry-free-react-admin-template/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/froala-design-blocks.svg?colorB=brightgreen)](https://www.npmjs.com/package/berry-material-react-free)
 [![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/berry-free-react-admin-template)](https://github.com/codedthemes/berry-free-react-admin-template/)
 
 
-Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops.
+Berry is a creative free react admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptopshttps://berrydashboard.io/imp-images/berry-github-free-repo.jpg
 
-<a href="https://www.producthunt.com/posts/berry-free-react-admin-template?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-berry-free-react-admin-template" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295529&theme=dark" alt="Berry - Free React Admin Template - Help you to create React web applications faster & beautiful | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+![IMG_8566.jpg](https://berrydashboard.io/imp-images/berry-github-free-repo.jpg)
+
 
 [Pro version](https://berrydashboard.io) of Berry react template contains features like TypeScript, Apps, Authentication Methods (i.e. JWT, Auth0, Firebase), Advance Components, Form Plugins, Layouts, Widgets, and many more.
+
+| [Berry Free](https://berry-free-react-admin-template-git-v20-codedthemes.vercel.app/)    | [Berry](https://material-ui.com/store/items/berry-react-material-admin/) |
+| ---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------|
+| **9** Demo pages                                                                         | **45+** demo pages                                                       |
+| -                                                                                        | ✓ Multi-language                                                         |
+| -                                                                                        | ✓ Dark/Light Mode 🌓                                                    |
+| -                                                                                        | ✓ TypeScript version                                                     |
+| -                                                                                        | ✓ Design files (Figma)                                                   |
+| -                                                                                        | ✓ 6+ color Options                                                       |
+| -                                                                                        | ✓ RTL                                                                    |
+| -                                                                                        | ✓ JWT, Firebase, Auth0 authentications                                   |
+| -                                                                                        | ✓ [More components](https://berrydashboard.io/dashboard/default)         |  
 
 
 ## Why Berry?
@@ -24,19 +36,17 @@ Berry brings everything you need for dashboard development. We have added the fo
  * Flexible & High-Performance code
  * Easy Documentation Guide
 
-## Free version preview & download
-
-We are expected to release the Free Berry React Admin Template in 07/05/2021
+## Free Berry React version
 
 #### Preview
 
- - [Demo](https://berrydashboard.io/free)
+ - [Demo](https://berry-free-react-admin-template-git-v20-codedthemes.vercel.app/)
 
 #### Download
 
  - [Download from Github](https://github.com/codedthemes/berry-free-react-admin-template)
  
-## Pro version preview & Purchase
+## Berry Pro version
 
 Berry is available to purchase.
 #### Preview
@@ -67,7 +77,7 @@ git clone https://github.com/codedthemes/berry-free-react-admin-template.git
 
 ## Documentation
 
-Berry documentation helps you out in all aspects from Installation to deployment - Soon it will be available.
+[Berry documentation](https://codedthemes.gitbook.io/berry/) helps you out in all aspects from Installation to deployment.
 
 ## Technology Stack
 
@@ -85,7 +95,7 @@ Berry is managed by Team [CodedThemes](https://codedthemes.com).
 
 ## Issues
 
-Please generate a Github issue if you found a bug in any version. We are trying to be responsive to resolve the issue.
+Please generate a [Github issue](https://github.com/codedthemes/berry-free-react-admin-template/issues) if you found a bug in any version. We are trying to be responsive to resolve the issue.
 
 ## License
 
